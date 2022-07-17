@@ -4,9 +4,9 @@ import br.com.dio.model.Cat;
 
 public class PrimeiroPrograma {
     public static void main(String[] args) {
-        Cat gato = new Cat();
+        Cat gatinho = new Cat();
 
-        System.out.println(gato);
+        System.out.println(gatinho);
 
         int a = 7;
         int b = 4;
